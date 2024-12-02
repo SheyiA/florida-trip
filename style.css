@@ -30,7 +30,7 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    background: url('/tumblr_n5jdrlm4nY1qegyoeo1_r1_500.gif') no-repeat center;
+    background: url('tumblr_n5jdrlm4nY1qegyoeo1_r1_500.gif') no-repeat center;
     background-size: cover;
     z-index: 9999;
 }
